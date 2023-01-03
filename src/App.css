@@ -1,0 +1,9 @@
+body {
+display: block;
+margin: 0 auto;
+max-width: 1000px;
+}
+
+a {
+    color: #EC54B1;
+}

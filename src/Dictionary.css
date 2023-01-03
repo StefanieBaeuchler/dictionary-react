@@ -1,0 +1,34 @@
+ h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.firstSection {
+  background: #FAD074;
+  padding: 30px;
+  border-radius: 6px;
+  margin: 20px 0;
+}
+
+.Dictionary section {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 5px 5px rgb(0 0 0 / 5%);
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  border-radius: 6px;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.Dictionary .Hints {
+  font-size: 11px;
+  margin-top: 5px;
+}
