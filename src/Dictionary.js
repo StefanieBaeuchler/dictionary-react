@@ -37,7 +37,8 @@ function load(){
   return (
     <div className="Dictionary">
       <div className="firstSection">
-        <h1>What word do you want to look up?</h1>
+        <h2>📚 Dictionary</h2>
+        <h3>What word do you want to look up?</h3>
         <form onSubmit={handleSubmit}>
           <input type="search" onChange={updateKeyword} />
         </form>

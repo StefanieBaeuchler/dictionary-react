@@ -1,7 +1,15 @@
 body {
 display: block;
 margin: 0 auto;
-max-width: 1000px;
+max-width: 960px;
+}
+
+
+
+footer {
+    text-align: center;
+    font-size: small;
+
 }
 
 a {
